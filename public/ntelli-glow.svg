@@ -1,0 +1,44 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg210525" version="1.1" viewBox="342.2 355.88 339.6 56.23">
+  <metadata id="metadata210531" fill="#FFFFFF">
+    <rdf:rdf fill="#FFFFFF">
+      <cc:work rdf:about="" fill="#FFFFFF">
+        <dc:format fill="#FFFFFF">image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" fill="#FFFFFF" />
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+    <defs id="defs210529">
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-d1ae1b77-13a9-41aa-a90c-0942ee9d5332" fill="#FFFFFF">
+    <stop id="stop210506" stop-opacity="1" stop-color="#ffffff" offset="0%" fill="#FFFFFF" />
+    <stop id="stop210508" stop-opacity="1" stop-color="#000000" offset="100%" fill="#FFFFFF" />
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-d1ae1b77-13a9-41aa-a90c-0942ee9d5332" fill="#FFFFFF">
+    <stop id="stop210511" stop-opacity="1" stop-color="#ffffff" offset="0%" fill="#FFFFFF" />
+    <stop id="stop210513" stop-opacity="1" stop-color="#cccccc" offset="50%" fill="#FFFFFF" />
+    <stop id="stop210515" stop-opacity="1" stop-color="#000000" offset="100%" fill="#FFFFFF" />
+  </linearGradient>
+  <g id="logo-group" fill="#FFFFFF" filter="url(#glow)">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)" fill="#FFFFFF" />
+    <g id="logo-center" transform="translate(0 0)" fill="#FFFFFF">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;" fill="#FFFFFF" />
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Montserrat;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)" fill="#FFFFFF" />
+      <g id="title" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)" fill="#FFFFFF">
+        <path id="path210534" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 395.14344,0 h 6.48 v -28.728 l -6.48,-8.424 z m 36.72,-51.048 v 39.744 l -31.68,-39.816 h -5.04 v 3.888 l 6.48,8.208 31.248,39.024 h 5.472 v -51.048 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#67CEF6" stroke="#67CEF6" transform="translate(0 310.99600000000004) translate(342.1984999999999 44.888) scale(1.1) translate(-395.14344 51.12)" />
+        <path id="path210536" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 463.29369,0 h 6.48 v -38.88 h -6.48 z m -17.64,-51.12 v 5.76 h 41.76 v -5.76 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#74CAE2" stroke="#74CAE2" transform="translate(0 310.99600000000004) translate(414.25977499999993 44.888) scale(1.1) translate(-445.65369 51.12)" />
+        <path id="path210538" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 501.18594,-45.36 h 27.576 v -5.76 h -34.056 v 15.84 h 6.48 z m -6.48,39.6 V 0 h 34.704 v -5.76 z m 6.48,-17.64 h 23.976 v -5.4 h -30.456 v 16.56 h 6.48 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#81C7CF" stroke="#81C7CF" transform="translate(0 310.99600000000004) translate(484.7172499999999 44.888) scale(1.1) translate(-494.70594 51.12)" />
+        <path id="path210540" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="M 538.29969,-5.76 V 0 h 34.992 v -5.76 z m 6.48,-45.36 h -6.48 v 38.88 h 6.48 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#91C2B7" stroke="#91C2B7" transform="translate(0 310.99600000000004) translate(549.1703749999999 44.888) scale(1.1) translate(-538.29969 51.12)" />
+        <path id="path210542" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="M 580.34656,-5.76 V 0 h 34.992 v -5.76 z m 6.48,-45.36 h -6.48 v 38.88 h 6.48 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#A4BC9B" stroke="#A4BC9B" transform="translate(0 310.99600000000004) translate(611.9219319999999 44.888) scale(1.1) translate(-580.34656 51.12)" />
+        <path id="path210544" style="font-style:normal;font-weight:500;font-size:72px;line-height:1;font-family:'Raleway Medium Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 622.39344,0 h 6.48 v -51.12 h -6.48 z" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#C5B36A" stroke="#C5B36A" transform="translate(0 310.99600000000004) translate(674.6735000000001 44.888) scale(1.1) translate(-622.39344 51.12)" />
+      </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;" fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>

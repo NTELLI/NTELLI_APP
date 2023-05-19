@@ -1,0 +1,32 @@
+.container {
+	height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr;
+	gap: 3rem;
+	margin: 0 auto;
+	padding: 5%;
+	background-color: whitesmoke;
+	background-image: linear-gradient(90deg, #bbc7e145, 1px, transparent 0),
+		linear-gradient(0deg, #bbc7e145, 1px, transparent 0);
+	background-size: 45px 45px;
+	-webkit-mask-image: linear-gradient(to bottom, white, white, transparent);
+	mask-image: linear-gradient(to bottom, white, white, transparent);
+}
+.content {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+	height: min-content;
+	display: grid;
+	gap: 0.5rem;
+}
+.content > h1 {
+	margin: 0;
+}
+
+.confetti {
+	width: 100%;
+	overflow-x: hidden;
+	display: grid;
+	place-content: center;
+}

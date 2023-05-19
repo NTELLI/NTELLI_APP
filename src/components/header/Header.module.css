@@ -1,0 +1,17 @@
+.header {
+	width: 100%;
+	height: auto;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 10;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 10px;
+	align-items: center;
+}
+
+.header > div:last-of-type {
+	justify-self: end;
+}

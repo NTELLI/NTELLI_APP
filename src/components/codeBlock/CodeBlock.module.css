@@ -1,0 +1,19 @@
+.codeBlock {
+	position: relative;
+	background: #1e1e1e;
+	padding: 1rem;
+	border-radius: 20px;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	overflow-y: scroll;
+	max-width: 100vw;
+}
+
+.copyButton {
+	background: transparent;
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	outline: none;
+	border: none;
+}

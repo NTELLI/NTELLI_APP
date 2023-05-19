@@ -1,0 +1,44 @@
+.form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.label {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 16px;
+}
+.buttonContainer {
+	display: flex;
+	gap: 1rem;
+}
+
+.input[type='email'],
+.input[type='password'] {
+	padding: 8px;
+	border-radius: 8px;
+	border: none;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+	margin-bottom: 16px;
+}
+
+.input[type='email']:hover,
+.input[type='password']:hover {
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button[type='submit'],
+.button {
+	background-color: #4caf50;
+	color: white;
+	padding: 8px 16px;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+.button[type='submit']:hover,
+.button:hover {
+	background-color: #2e8b57;
+}

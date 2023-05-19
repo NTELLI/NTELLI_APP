@@ -1,0 +1,55 @@
+.formContainer {
+	display: flex;
+	width: 100%;
+	margin-top: 40px;
+	max-width: 700px;
+	margin: 0 auto;
+	left: 50%;
+	bottom: 0;
+}
+.textContainer {
+	display: flex;
+	width: 100%;
+	position: relative;
+}
+.textContainer textarea {
+	padding: 0.75rem;
+	padding-top: calc(30px - 0.75rem);
+	width: 100%;
+	min-height: 60px;
+	max-height: 200px;
+	overflow-y: scroll;
+	resize: none;
+	border-radius: 20px;
+	border: 1px solid #0000001a;
+	outline: none;
+}
+
+.textContainer textarea::-webkit-scrollbar {
+	display: none;
+}
+
+.textContainer textarea {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+
+.textContainer button {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	right: 0;
+	top: 5px;
+	background-color: transparent;
+	border: none;
+	transform: translate(0%, 50%);
+	margin-right: 0.75rem;
+	color: #000;
+	border-radius: 5px;
+}
+
+.textContainer button:disabled:hover {
+	background-color: transparent;
+	color: transparent;
+	cursor: not-allowed;
+}

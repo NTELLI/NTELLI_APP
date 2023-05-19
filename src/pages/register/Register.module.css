@@ -1,0 +1,11 @@
+.register {
+	width: 100%;
+}
+
+@media screen and (min-width: 560px) {
+	.register {
+		display: flex;
+		justify-content: center;
+		place-items: center;
+	}
+}

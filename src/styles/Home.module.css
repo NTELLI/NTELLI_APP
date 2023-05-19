@@ -1,0 +1,15 @@
+.login {
+	width: 100%;
+	background-image: url('/Meteor.svg');
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+}
+
+@media screen and (min-width: 560px) {
+	.login {
+		display: grid;
+		align-items: center;
+	}
+}

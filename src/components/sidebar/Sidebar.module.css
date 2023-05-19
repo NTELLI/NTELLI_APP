@@ -1,0 +1,40 @@
+.container {
+	width: calc(100% - 40px);
+	padding: 0;
+	margin: 20px;
+	margin-top: 60px;
+	border-radius: 20px;
+	display: grid;
+	grid-template-rows: repeat(12, 1fr);
+	position: fixed;
+	top: 0;
+	height: calc(100% - 80px);
+	transition: left 0.5s;
+	z-index: 10;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.innerGrid {
+	min-height: 530px;
+	max-height: 70%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.container::-webkit-scrollbar,
+.innerGrid::-webkit-scrollbar {
+	display: none;
+}
+
+.container,
+.innerGrid {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+
+@media screen and (min-width: 560px) {
+	.container {
+		width: 270px;
+	}
+}
