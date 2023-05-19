@@ -4,7 +4,7 @@ import {
 	HandleNonNumberedList,
 	HandleNumberedList,
 	HandleTableResponse,
-} from "../../components/messageHandler/MessageHandlers";
+} from "../../helpers/MessageHandlers";
 
 interface StreamMessageTransformer {
 	(message: string, styles: any, copied: boolean, setCopied: (copy: boolean) => void): JSX.Element;

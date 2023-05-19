@@ -4,7 +4,6 @@ import "highlight.js/styles/vs2015.css";
 import styles from "./CodeBlock.module.css";
 import { DownloadFile } from "../icons/DownloadFile";
 import { Tooltip } from "@nextui-org/react";
-import { downloadAsImage } from "@/components/messageHandler/MessageHandlers";
 
 function CodeBlock({ code }: any) {
 	const codeRef = useRef<HTMLElement>(null);

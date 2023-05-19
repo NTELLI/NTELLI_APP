@@ -1,4 +1,4 @@
-import { downloadAsImage, downloadExcel } from "@/components/messageHandler/MessageHandlers";
+import { downloadAsImage, downloadExcel } from "@/helpers/download";
 import { Tooltip } from "@nextui-org/react";
 import React from "react";
 import { DownloadFile } from "../icons/DownloadFile";
