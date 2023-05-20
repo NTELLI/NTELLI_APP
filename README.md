@@ -79,9 +79,7 @@ Thanks, and we look forward to working with you!
 
 ---
 
-<span style="color:#E55F55; font-size:1.5rem; font-weight:700;"> Bug Report </span>
-
-<div style="border: 1px solid; padding:5%; border-radius:10px;">
+## Bug Report
 
 **Description**
 A clear and concise description of what the bug is.
@@ -110,7 +108,5 @@ Please indicate the severity of the bug, such as critical, major, or minor.
 
 **Proposed solution**
 If you have any solution or suggestions on how to fix the bug, please include them here.
-
-</div>
 
 ---
