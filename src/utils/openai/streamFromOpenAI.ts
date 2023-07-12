@@ -34,7 +34,7 @@ export const streamFromOpenAI = async (props: StreamProps): Promise<any> => {
 	let fullText = "";
 
 	const payload = {
-		model: "gpt-3.5-turbo",
+		model: "gpt-3.5-turbo-16k",
 		messages: [
 			{ role: "system", content: `This is your knowledge of the current chat so far: ${chatHistory}` },
 			{ role: "user", content: inputMessage },
